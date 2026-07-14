@@ -12,7 +12,7 @@
 <public>
     <method name="Run"></method>
 </public>
-<script language="JScript">
+<script>
 <![CDATA[
 
 	function Run()
