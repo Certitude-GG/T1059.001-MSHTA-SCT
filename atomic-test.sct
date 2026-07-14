@@ -1,0 +1,26 @@
+<?XML version="1.0"?>
+<scriptlet>
+
+<registration
+    description="Cert"
+    progid="Cert"
+    version="1.00"
+    classid="{ABAB1212-0000-0000-0000-0000ABABACDB}"
+	>
+</registration>
+
+<public>
+    <method name="Run"></method>
+</public>
+<script language="JScript">
+<![CDATA[
+
+	function Run()
+	{
+	
+	}
+
+]]>
+</script>
+
+</scriptlet>
